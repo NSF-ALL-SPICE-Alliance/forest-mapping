@@ -12,8 +12,22 @@ Student stipends for this work were funded by the Pacific Intelligence Innovatio
 
 ## Overview 
 
-This work took place during June 2024 during the SPICE Summer Data Science Institute. Students begun by learning how to utilize the [eo-learn](https://github.com/sentinel-hub/eo-learn) python package to process data from Sentinel 2. Next, with inspiration from forest-map notebook in the [eo-learn examples repository](https://github.com/sentinel-hub/eo-learn-examples), students applied a machine learning model to their data in order to analyze trends in deforestation 
+This work took place during June 2024 during the SPICE Summer Data Science Institute. Students begun by learning how to utilize the [eo-learn](https://github.com/sentinel-hub/eo-learn) python package to process data from Sentinel 2. Next, with inspiration from forest-map notebook in the [eo-learn examples repository](https://github.com/sentinel-hub/eo-learn-examples), students applied a machine learning model created by [Benjamin Bishke & the European Space Agency PhiLab](https://philab.esa.int/) to their data in order to analyze trends in deforestation 
 in Indonesia and Myanmar and monitor wild fire activity in New Zealand. 
+
+
+
+## Student Videos
+
+
+
+https://github.com/NSF-ALL-SPICE-Alliance/forest-mapping/assets/76076246/90b2bec3-5788-4b5f-9c92-d0a6382c4113
+
+
+
+https://github.com/NSF-ALL-SPICE-Alliance/forest-mapping/assets/76076246/a698e0f8-35f4-4426-bab2-5c7f65c1b6bb
+
+
 
 
 #### Students 
